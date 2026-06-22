@@ -26,7 +26,7 @@ MLX is Apple's open-source ML framework designed for Apple Silicon. If you have 
 **"I'm building a Swift/iOS app with on-device AI"**
 → Start with [mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm) + [fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) as reference
 
-**[Submit your project →](#contributing)** PRs and issues welcome! Language legend: 🐍 Python · 🦅 Swift · 🟨 JS/TS · 🦀 Rust · 🐹 Go
+**[Submit your project →](#contributing)** PRs and issues welcome! Language legend: 🐍 Python · 🦅 Swift · 🟨 JS/TS · 🦀 Rust · 🐹 Go · 🟧 Zig
 
 ---
 
@@ -90,6 +90,7 @@ MLX is Apple's open-source ML framework designed for Apple Silicon. If you have 
 - 🐍 [mlx-llm-server](https://github.com/mzbac/mlx-llm-server) — MLX LLM inference and serving server with OpenAI-compatible API. ![](https://img.shields.io/github/stars/mzbac/mlx-llm-server?style=flat-square)
 - 🐍 [TurboQuant-MLX](https://github.com/alicankiraz1/Qwen3.5-TurboQuant-MLX-LM) — TurboMLX KV cache compression experiments for Qwen3.5 on MLX. ![](https://img.shields.io/github/stars/alicankiraz1/Qwen3.5-TurboQuant-MLX-LM?style=flat-square)
 - 🐍 [strands-mlx](https://github.com/cagataycali/strands-mlx) — MLX model provider for AWS Strands Agents — build AI agents on Apple Silicon. ![](https://img.shields.io/github/stars/cagataycali/strands-mlx?style=flat-square)
+- 🟧 [mlx-serve](https://github.com/ddalcu/mlx-serve) — Native Zig inference server. OpenAI- and Anthropic-compatible APIs (works with Claude Code), runs both MLX and GGUF models, speculative decoding, and KV-cache quantization. Ships MLX Core, a macOS menu-bar app. ![](https://img.shields.io/github/stars/ddalcu/mlx-serve?style=flat-square)
 
 ## Training & Fine-tuning
 
